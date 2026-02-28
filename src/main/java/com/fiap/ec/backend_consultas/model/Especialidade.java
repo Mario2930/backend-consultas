@@ -1,5 +1,5 @@
 package com.fiap.ec.backend_consultas.model;
 
-public class model {
+public class Especialidade {
 
 }
